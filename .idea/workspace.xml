@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="916d8ca8-2f16-4d18-8394-930a4c0616e4" name="Changes" comment="Created a class for Initializing the driver">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MobileElementMethodsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ProductImageInteractionDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MobileElementMethodsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MobileElementMethodsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ProductListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ProductListDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MobileElementMethodsDemo">
+  <component name="RunManager" selected="Application.ProductImageInteractionDemo">
     <configuration name="LaunchAndQuitDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.LaunchAndQuitDemo" />
       <module name="AppiumCourse" />
@@ -70,6 +71,19 @@
     </configuration>
     <configuration name="MobileElementMethodsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.MobileElementMethodsDemo" />
+      <module name="AppiumCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductImageInteractionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ProductImageInteractionDemo" />
       <module name="AppiumCourse" />
       <extension name="coverage">
         <pattern>
@@ -109,6 +123,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProductImageInteractionDemo" />
         <item itemvalue="Application.MobileElementMethodsDemo" />
         <item itemvalue="Application.ProductListDemo" />
         <item itemvalue="Application.SauceLabsLocatorStrategyDemo" />

@@ -7,7 +7,6 @@ import io.appium.java_client.android.nativekey.AndroidKey;
 import io.appium.java_client.android.nativekey.KeyEvent;
 import io.appium.java_client.touch.offset.ElementOption;
 import io.appium.java_client.touch.offset.PointOption;
-import org.objectweb.asm.TypeReference;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Point;
 

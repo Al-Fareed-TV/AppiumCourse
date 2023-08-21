@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="916d8ca8-2f16-4d18-8394-930a4c0616e4" name="Changes" comment="Created a class for Initializing the driver">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LoginInteractionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/TapGestureDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LoginInteractionDemo">
+  <component name="RunManager" selected="Application.TapGestureDemo">
     <configuration name="LoginInteractionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.LoginInteractionDemo" />
       <module name="AppiumCourse" />
@@ -106,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SauceLabsLocatorStrategyDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.SauceLabsLocatorStrategyDemo" />
+    <configuration name="TapGestureDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.TapGestureDemo" />
       <module name="AppiumCourse" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TapGestureDemo" />
         <item itemvalue="Application.LoginInteractionDemo" />
         <item itemvalue="Application.ProductImageInteractionDemo" />
         <item itemvalue="Application.MobileElementMethodsDemo" />
         <item itemvalue="Application.ProductListDemo" />
-        <item itemvalue="Application.SauceLabsLocatorStrategyDemo" />
       </list>
     </recent_temporary>
   </component>

@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="916d8ca8-2f16-4d18-8394-930a4c0616e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/DriverInitializer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="916d8ca8-2f16-4d18-8394-930a4c0616e4" name="Changes" comment="Created a class for Initializing the driver">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SauceLabsLocatorStrategyDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/SauceLabsLocatorStrategyDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DriverInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/DriverInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ProductListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ProductListDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +54,22 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SauceLabsLocatorStrategyDemo">
+  <component name="RunManager" selected="Application.ProductListDemo">
     <configuration name="LaunchAndQuitDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.LaunchAndQuitDemo" />
+      <module name="AppiumCourse" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ProductListDemo" />
       <module name="AppiumCourse" />
       <extension name="coverage">
         <pattern>
@@ -84,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProductListDemo" />
         <item itemvalue="Application.SauceLabsLocatorStrategyDemo" />
         <item itemvalue="Application.LaunchAndQuitDemo" />
       </list>
@@ -98,6 +111,15 @@
       <option name="presentableId" value="Default" />
       <updated>1692599508253</updated>
     </task>
+    <task id="LOCAL-00001" summary="Created a class for Initializing the driver">
+      <option name="closed" value="true" />
+      <created>1692606921751</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692606921751</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,5 +132,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created a class for Initializing the driver" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created a class for Initializing the driver" />
   </component>
 </project>

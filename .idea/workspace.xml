@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="916d8ca8-2f16-4d18-8394-930a4c0616e4" name="Changes" comment="Created a class for Initializing the driver">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SwipeGestureDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ScrollToTextDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,10 +51,13 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/testvagrant/Documents/AppiumCourse",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SwipeGestureDemo">
+  <component name="RunManager" selected="Application.ScrollToTextDemo">
     <configuration name="LoginInteractionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.LoginInteractionDemo" />
       <module name="AppiumCourse" />
@@ -80,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductImageInteractionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ProductImageInteractionDemo" />
+    <configuration name="ScrollToTextDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.ScrollToTextDemo" />
       <module name="AppiumCourse" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ScrollToTextDemo" />
         <item itemvalue="Application.SwipeGestureDemo" />
         <item itemvalue="Application.PressGestureLocatorDemo" />
         <item itemvalue="Application.TapGestureDemo" />
         <item itemvalue="Application.LoginInteractionDemo" />
-        <item itemvalue="Application.ProductImageInteractionDemo" />
       </list>
     </recent_temporary>
   </component>

@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="916d8ca8-2f16-4d18-8394-930a4c0616e4" name="Changes" comment="Created a class for Initializing the driver">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ScrollToTextDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/BrowserAutomationWithWebElements.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,9 +56,9 @@
     "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ScrollToTextDemo">
-    <configuration name="LoginInteractionDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.LoginInteractionDemo" />
+  <component name="RunManager" selected="Application.BrowserAutomationWithWebElements">
+    <configuration name="BrowserAutomationWithWebElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.BrowserAutomationWithWebElements" />
       <module name="AppiumCourse" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BrowserAutomationWithWebElements" />
         <item itemvalue="Application.ScrollToTextDemo" />
         <item itemvalue="Application.SwipeGestureDemo" />
         <item itemvalue="Application.PressGestureLocatorDemo" />
         <item itemvalue="Application.TapGestureDemo" />
-        <item itemvalue="Application.LoginInteractionDemo" />
       </list>
     </recent_temporary>
   </component>
